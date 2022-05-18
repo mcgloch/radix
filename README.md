@@ -28,14 +28,7 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Authors
-
-- Pedro Duarte ([@peduarte](https://twitter.com/peduarte)) - [Modulz](https://modulz.app)
-- Benoit Grelard ([@benoitgrelard](https://twitter.com/benoitgrelard)) - [Modulz](https://modulz.app)
-- Jenna Smith ([@jjenzz](https://twitter.com/jjenzz)) - [Modulz](https://modulz.app)
-- Colm Tuite ([@colmtuite](https://twitter.com/colmtuite)) - [Modulz](https://modulz.app)
-- Chance Strickland ([@chancethedev](https://twitter.com/chancethedev))
 
 ---
 
-Copyright © 2020-present [Modulz](https://modulz.app).
+Copyright © 2020-present [Leanne McLaughlin](https://lilymac.app).
